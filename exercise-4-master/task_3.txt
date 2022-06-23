@@ -1,0 +1,29 @@
+# authors: Viviane Walker, Micha David Hess
+
+a) List one advantage and
+one disadvantage for each of the data formats (XML, JSON, CSV).
+
+XML:
++ XML allows the flexible development of user-defined document types. It provides a robust, non-proprietary, persistent, and verifiable file format for the storage and transmission of text and data both on and off the Web + (source: http://xml.silmaril.ie/important.html#:~:text=XML%20allows%20the%20flexible%20development,it%20easier%20to%20program%20for.)
+- The most irritating concern with XML is obtaining data. So far in Python I was using standard built-in module xml, lxml or BeautifulSoup. For all of them this process always looks the same, which means navigating over nodes, checking childs, getting text values, etc., which always results in many lines of code. (source: https://www.tivix.com/blog/parsing-xml-does-it-have-to-be-so-annoying)
+
+JSON:
++ It can be read easily by humans as well as remain quite simple for browsers to parse. (source: https://www.techquintal.com/advantages-and-disadvantages-of-json/)
+- JSON isn’t as robust a data structure as XML is. There is no ability to add comments or attribute tags to JSON, which is limiting. (source: https://avato.co/developers/pros-cons-json-vs-xml/)
+
+CSV:
++ CSV is human readable and easy to edit manually, simple to implement and parse, faster to handle and smaller in size, is compact and considered to be standard format. (source: https://www.shopping-cart-migration.com/must-know-tips/5985-csv-what-why-and-how)
+- CSV allows to move most basic data only and there is no distinction between text and numeric values. (source: https://www.shopping-cart-migration.com/must-know-tips/5985-csv-what-why-and-how)
+
+
+FEEDBACK
+b) How long did it take you to solve the tasks?
+14 hourse
+What did you struggle with?
+We quite struggled with Task 1.1 and Task 1.3 because we were lost at the beginning of solving these two sub tasks.
+what was easy?
+Task 2 and Task 3 were easier compared to Task 1.
+
+Did you gain any new knowledge by solving the exercises?
+Yes, we did! We really enjoyed this exercise! It was challenging, but still doable in three weeks time.
+We think that it was also a very useful exercise for our skillset, as file formats, encodings and file handling are crucial basics for CL. Which we now possess and feel more comfortable with :D

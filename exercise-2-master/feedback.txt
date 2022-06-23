@@ -1,0 +1,13 @@
+
+Authors: Viviane Walker, Micha David Hess
+Matriculation-nr.: 18-719-070, 20-719-183
+
+a) How much time did you spend roughly on this exercise?
+We spent approximately 15 hours on this exercise.
+
+b) How difficult was this exercise? Was the difficulty too high, too low or just right?
+level of difficulty: upper limit of "just right".
+both: What had an unfortunate impact on the level of difficulty were the vague descriptions of not just one but several task descriptions, e.g. what different input formats our code has to be able to handle, what is raw_joke. Regarding the test_processing file, why is there a reddit_csv file even though we were only given a dadjokes_sample csv file ??
+
+c) Do you feel more comfortable now with the topics from the exercise and lectures?
+Yes, we do feel more comfortable with OOP in Python and looking forward to the next exercise. :D

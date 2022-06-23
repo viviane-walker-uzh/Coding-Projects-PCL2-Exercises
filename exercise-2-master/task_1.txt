@@ -1,0 +1,21 @@
+# task_1.txt
+
+# University of Zurich
+# Department of Computational Linguistics
+
+# Authors: Viviane Walker, Micha David Hess
+# Matriculation Numbers: 18-719-070, 20-719-183
+
+
+#1
+Riiiii #output from roar method via the Velociraptor class.
+# does not output anything else, because there was print in the leftover method calls. And no Warnings were raised because Kara had enough health to fight after getting nourished (nourish method).
+
+#2
+# does not output a roar since the class object Pepe is a Dinosaur object. In this (parent) class the roar method is "empty", it only consists of a "pass" and does not output anything.
+# does not output anything when calling the method nourish because it consists only of returns and no print statement (which WOULD output something).
+
+#3
+Oi, mate! #output from mate method
+Raaaaa #output from roar, here we get an output when calling the roar method because Sauri is a Brachiosaurus class object and therefore has the roar method implemented aka not empty).
+Warning: Your dinosaur Sauri died! :( # Sauri died due to the fight method (which substracted 10 from its health score, the Warning was raised within the fight method, where it calls the check_health method)

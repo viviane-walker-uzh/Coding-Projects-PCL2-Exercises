@@ -1,0 +1,41 @@
+# task_5.txt
+
+# University of Zurich
+# Department of Computational Linguistics
+
+# Authors: # Viviane Walker, Micha David Hess
+# Matriculation Numbers: 18-719-070, 20-719-183
+
+a)
+advantages:
++ more structure in the coding process (step-by-step approach)
++ makes you think very well about what you want your application to do —> more modular design
++ easier to maintain and refacture, everything is well decoupled
+
+disadvantages:
+- too complicated to think for everything in that approach, a lot of thinking before writing code
+- in a team: everybody in the team has to go with that approach otherwise it will become an issue
+- to cover most bordercases, a lot of time has to be spent writing tests rather than code
+- tests have to be 'perfect' in order for the coding to work    
+
+
+b) tested mainly with assertEqual function, to test if a manual (gold standard) e.g. tokenized input sentence
+is equal to the corresponding function's output. Also, we tried to include as many corner cases as possible per test assert.
+
+
+c)
+How long did it take you to solve the tasks?
+* 10-12 hours!!!
+
+Where did you have difficulties?
+* It was difficult to get into the "coding mood" again because we did not code anything since the PCL1 exam.
+* TDD was new to both of us, to we had first had to get the hang of how unit-tests work, should be structured, etc.
+* the whole GitLab workflow, such as integrating git into our IDEs, merging, etc.
+
+What was easy to handle?
+* Thanks to the examplary unittests it was somewhat intuitive to derive further examples from that.
+
+Did you gain any new knowledge by solving the exercise?
+* We learned that with unittests I do not have to print my function results anymore, I can just check IF my tests run OK. :D
+* It was a good refresher of RegEx and the functionalities included in the re-module, such as match-groups and re.compile
+* Copy pasting of patterns from StackOverflow is VERY efficient and can save a programmer several weeks of ageing (see emoji remover)
